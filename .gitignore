@@ -1,0 +1,24 @@
+# macOS and editor metadata
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and generated coursework data
+.env
+*.log
+log/
+logs/
+performance_logs/
+file_versions.json
+part-1/data/
+part-1/file/
+part-1/tmp/
+part-1/downloads/
